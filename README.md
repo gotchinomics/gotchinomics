@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gotchinomics
 - 👀 I’m interested in Building an Aavegotchi DApps using React + Web3 
-- 🌱 I’m currently learning React & Phaser3
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate with Aavegotchi
 - 📫 How to reach me cryptotuxx@gmail.com
 
