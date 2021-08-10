@@ -2,7 +2,7 @@
 - 👀 I’m interested in Building an Aavegotchi DApps using React + Web3 
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate with Aavegotchi
-- 📫 How to reach me cryptotuxx@gmail.com
+- 📫 How to reach me gotchinomics@gmail.com
 
 <!---
 gotchinomics/gotchinomics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
